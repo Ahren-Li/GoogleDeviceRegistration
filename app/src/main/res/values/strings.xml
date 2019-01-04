@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleDeviceRegistration</string>
+    <string name="message_txt">Message</string>
+    <string name="message">
+        This APP will automatically register to Google with the GSF ID.\n\t1. Read you device Google service framework ID.\n\t2. Login google account in Google\'s official website.\n\t3. Go to \"g.co/androiddeviceregistration\" register your ID.
+    </string>
+    <string name="gsf_id">
+        GSF ID:
+    </string>
+</resources>
