@@ -4,7 +4,7 @@ Automatically register GSF ID with google
 Recently google has google account login restrictions for uncertified devices. But Google provide a way to register our own devices.
 [Google Device Registration](https://www.google.com/android/uncertified/)
 
-problem
+### Problem
 ![error|690x414](https://www.lili.kim/2019/01/04/android/Google%20Device%20Registration/error.png) 
 
 ### Step 1
